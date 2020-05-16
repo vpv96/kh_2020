@@ -1,0 +1,369 @@
+CRITICAL - 2020-05-15 13:31:06 --> Invalid file: content_realtime.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content_realtim...')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('content_realtim...', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(10): view('content_realtim...')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 13:31:22 --> Invalid file: content_realtime.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content_realtim...')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('content_realtim...', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(10): view('content_realtim...')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 13:31:50 --> Invalid file: content_realtime.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content_realtim...')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('content_realtim...', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(10): view('content_realtim...')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 13:31:51 --> Invalid file: content_realtime.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content_realtim...')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('content_realtim...', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(10): view('content_realtim...')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 13:32:00 --> Invalid file: content_realtime.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content_realtim...')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('content_realtim...', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(10): view('content_realtim...')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 13:32:02 --> Invalid file: content_realtime.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('content_realtim...')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('content_realtim...', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(10): view('content_realtim...')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:41:40 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:44:52 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:44:54 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:44:57 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:45:11 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:45:12 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:45:15 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:45:31 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:45:48 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:48:31 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:48:40 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:48:49 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:48:51 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:52:37 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:52:37 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:55:00 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:55:01 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:55:04 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 14:58:55 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:00:19 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:00:20 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:03:39 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:04:10 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:05:15 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:05:17 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:05:31 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:27:35 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:27:36 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:28:20 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:28:25 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 15:28:33 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 16:37:40 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Home.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 17:46:58 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 17:47:00 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-15 17:47:49 --> Invalid file: home.php
+#0 /home/admin/web/kambakhuasi.com/public_html/application/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+#1 /home/admin/web/kambakhuasi.com/public_html/application/system/Common.php(1087): CodeIgniter\View\View->render('home', Array, true)
+#2 /home/admin/web/kambakhuasi.com/public_html/application/app/Controllers/Realtime.php(8): view('home')
+#3 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(914): App\Controllers\Realtime->index()
+#4 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Realtime))
+#5 /home/admin/web/kambakhuasi.com/public_html/application/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/admin/web/kambakhuasi.com/public_html/application/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
